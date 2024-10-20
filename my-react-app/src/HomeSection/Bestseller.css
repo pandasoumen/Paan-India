@@ -1,0 +1,12 @@
+.bestseller{
+    margin-top: 3rem;
+}
+.bestseller h1{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.paan-type{
+    display: flex;
+    flex-direction: row;
+}

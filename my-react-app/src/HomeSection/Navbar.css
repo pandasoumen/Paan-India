@@ -1,0 +1,61 @@
+.menu {
+  margin-left: 20px;
+  font-size: 35px;
+  color: gold;
+}
+.search-logo {
+  cursor: pointer;
+  font-size: 30px;
+  color: gold;
+}
+.account {
+  font-size: 30px;
+  color: gold;
+}
+.navbar {
+  height: 5rem;
+  display: flex;
+  background-color: #064439;
+  padding: 20px 40px;
+  gap: 3rem;
+  cursor: pointer;
+}
+.logo {
+    margin-left: 20px;
+    user-select: none;
+    height: 4.5rem;
+  }
+  
+  .middle {
+    display: flex;
+    gap: 2rem;
+    margin: auto auto;
+  }
+
+.shopnow {
+}
+.shopnow:hover {
+}
+.navvalue {
+  text-decoration: none;
+  color: rgba(252, 218, 29, 0.936);
+  font-size: 15px;
+  font-weight: 500;
+}
+.navvalue:hover {
+  color: white;
+  transform: scale(1.05);
+}
+
+.search-logo{
+
+}
+.search-logo::before{
+    display: none;
+}
+.search-logo:hover{
+    
+    border: 1px solid;
+    width: 4rem;
+    height: 10px;
+}
